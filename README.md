@@ -1,7 +1,8 @@
 # SoFi Technologies, Inc Case Study
 By Ying Fu
 
-![SoFi logo](download.png)
+![SoFi logo](sofilogo.png)
+
 ## Overview and Origin
 **SoFi Technologies, Inc**, is an American online personal finance company. Funded in 2011, the company started as an experiment conducted by Stanford Business School pals Mike Cagney, Dan Macklin, James Finnigan, and Ian Brady. They were hoping to address the seriously flawed student loan system and provide more affordable options for those taking on debt to fund their education. The company's inaugural loan program was a $2 million pilot at Stanford which connected 100 student borrowers with 40 Stanford alumni. Everybody won in this program,  the students received funds at a reasonable rate lower than the federal government offered, the alumni lenders collected a return on their investments, and SoFi retained a piece of the interest for their services. Over the years, the company has significanlty diversified its financial products and services to mortgages, mortgage refinancing and personal loans, the company moved away from an alumni-funded model to a non-traditional underwriting approach focused on lending to financially responsible individuals. They also offer cash management (checking) accounts and an investment platform that includes brokerage and robo-advisor services. This case study focuses on one of its segments **SoFi Money<sup>TM</sup>**.
 
